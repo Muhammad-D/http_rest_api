@@ -1,4 +1,4 @@
-# A simple API app 
+# A simple REST API app 
 
 ## Main goal was an implementation of:
 
