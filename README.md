@@ -1,3 +1,5 @@
+Hi there
+
 # A simple REST API app 
 
 ## Main goal was an implementation of:
